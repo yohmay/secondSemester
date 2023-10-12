@@ -1,0 +1,1 @@
+SELECT primeiro_nome_func FROM dual;
